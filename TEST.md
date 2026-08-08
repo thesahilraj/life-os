@@ -1,1 +1,0 @@
-GitHub connector is working.
